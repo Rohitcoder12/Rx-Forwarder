@@ -1,0 +1,4 @@
+telethon
+pyTelegramBotAPI
+sqlite3
+# Add any other dependencies you use (e.g., twilio, nexmo)
